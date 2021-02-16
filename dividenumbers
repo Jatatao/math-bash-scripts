@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Enter the first number you would like to divide."
+read z
+echo "Enter the second number you would like to divide"
+read x
+echo "Your quotient is $((z / x))"

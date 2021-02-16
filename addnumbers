@@ -1,0 +1,6 @@
+echo "Enter the first number you would like to add."
+read a
+echo "Enter the second number you would like to add."
+read b
+((sum=a+b))
+echo "The sum is $sum"
